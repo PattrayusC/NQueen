@@ -28,5 +28,7 @@ if not we place this queen here. if so we return a false backtrack to the previo
 
 ![image](https://github.com/PattrayusC/NQueen/assets/121107697/d15f4444-a418-4e0e-a150-a6172cdc1f1d)
 
-<p align="center">![image](https://github.com/PattrayusC/NQueen/assets/121107697/32e1145e-1dbe-40b3-9591-432e8bb589b2)</p>
+<p align="center">
+  <img src="https://media.tenor.com/52M2P0XtgQUAAAAi/roblox-dance.gif">
+</p>
 <p align="center">Happy Coding!</p>
